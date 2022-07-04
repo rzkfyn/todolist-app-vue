@@ -1,7 +1,10 @@
-# Vue 3 + Vite
+<div align="center">
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Vue To-do list App  
+> Sebuah aplikasi to-do list sederhana, dibuat dengan [vite](https://vitejs.dev), [vuejs3](https://vuejs.org) & [tailwindcss3](https://tailwindcss.com).
+</div>
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Preview
+<a href="https://vue-todoapp.rzkfyn.tech/">
+  <img src="https://user-images.githubusercontent.com/69192505/177146227-33a80627-afe4-411b-82b1-e730e9a15f7e.png" width="650px">
+</a>
